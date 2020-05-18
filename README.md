@@ -4,7 +4,7 @@ File template for c with a pretty makefile
 Global
 
     Don't forget to modify $(C_COMPILE) in all of your makefiles to make it look prettier
-    here is a site that can help yo chose a color : 
+    here is a site that can help you chose a color : 
                 - https://misc.flogisoft.com/bash/tip_colors_and_formatting
 
 Source Makefile
